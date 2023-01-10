@@ -12,6 +12,7 @@ This app creates notes or code snippets with or without an internet connection
 ## Heroku
 
 ## Demo
+<img width="1440" alt="Screen Shot 2023-01-09 at 9 25 15 PM" src="https://user-images.githubusercontent.com/97656734/211471302-2afe6e00-7a13-4993-ba69-b072a49cc360.png">
 
 ## Installation
     1. npm install the @babel, webpack, idb, etc. (please see the package.json)
